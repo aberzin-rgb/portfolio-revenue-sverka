@@ -1,0 +1,24 @@
+{
+  "disk_root": "/Users/a.berzin/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/a.berzin@vk.team-mailru",
+
+  "summary_file": "Отчеты БС OnPrem/2026. Сводный Отчет (по паспортам проектов ЦПС).xlsx",
+  "summary_sheet": "2026",
+  "revenue_file": "Отчеты БС OnPrem/По Выручке/Сверка 06_07_2026/Хабибуллина А. 01-07.26.xlsx",
+  "revenue_sheet": "Sheet1",
+  "revenue_format": "journal",
+
+  "pm_folders_root": "Папка проектного офиса/Папки PM и Проектов",
+  "passport_folder_keywords_exclude": ["архив", "потенциал", "перспектив", "предполага", "передан"],
+
+  "direction": null,
+  "code_prefixes": ["MRCO"],
+  "year": "2026",
+  "period": "year",
+
+  "match_tolerance_rub": 1.0,
+  "match_tolerance_pct": 0.001,
+
+  "orphan_code_prefixes": ["MRCO"],
+
+  "output_file": "Сверка_Хабибуллина_7мес_2026.xlsx"
+}

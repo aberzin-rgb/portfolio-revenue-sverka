@@ -1,0 +1,23 @@
+{
+  "disk_root": "/Users/a.berzin/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/a.berzin@vk.team-mailru",
+
+  "summary_file": "Отчеты БС OnPrem/2026. Сводный Отчет (по паспортам проектов ЦПС).xlsx",
+  "summary_sheet": "2026",
+  "revenue_file": "/Users/a.berzin/Library/CloudStorage/OneDrive-Личная/Рабочие документы/2_Code projects/portfolio-revenue-sverka/Берзин 01-07.26.xlsx",
+  "revenue_sheet": "Sheet1",
+  "revenue_format": "journal",
+
+  "pm_folders_root": "Папка проектного офиса/Папки PM и Проектов",
+  "passport_folder_keywords_exclude": ["архив", "потенциал", "перспектив", "предполага", "передан"],
+
+  "direction": "VK Workspace",
+  "year": "2026",
+  "period": "year",
+
+  "match_tolerance_rub": 1.0,
+  "match_tolerance_pct": 0.001,
+
+  "orphan_code_prefixes": ["MFBO", "MFOG"],
+
+  "output_file": "Сверка_VK_Workspace_7мес_2026.xlsx"
+}
